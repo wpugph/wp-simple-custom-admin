@@ -1,8 +1,10 @@
+[![Build Status](https://travis-ci.org/wpugph/wp-simple-custom-admin.svg?branch=master)](https://travis-ci.org/wpugph/wp-simple-custom-admin)
+
 # WordPress Customize Admin Plugin
 
 Simple Custom Admin
 
-For bugs and feature request, please open an Issue in GitHub https://github.com/carl-alberto/wp-simple-custom-admin/issues
+For bugs and feature request, please open an Issue in GitHub https://github.com/wpugph/wp-simple-custom-admin/issues
 
 This plugin will simply white label and easily customize your WordPress admin dashboard panel. Only one plugin to use when simplifying up your admin dashboard for your users. This is the easiest and simplest way to simplify your admin dashboard.
 
